@@ -16,6 +16,7 @@ Approximately 2 hours were spent on this practical.
 Through my research into Git configuration, I learned that Git requires a global user identity (email and name) before it allows any commits to be recorded.
 This ensures every "save point" has an author for accountability. I also discovered that when using PowerShell, folder paths containing spaces must be wrapped in quotation marks (e.g., `cd "Week 1"`) because the terminal interprets spaces as the start of a new command parameter.
 Understanding these small technical details prevented further "fatal" errors in my workflow.
+Lastly, I could not get to remove journal.md from my inital repo.
 
 ## Career/Employability/Learning Insights
 This week taught me the importance of documentation and version control as professional skills rather than just academic tasks.
