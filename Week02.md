@@ -2,9 +2,9 @@
 
 ## Learning Activities & Resources
 
-Joomla Extension Docs: Spent time reading up on how Joomla handles the difference between "Components" and "Plugins".  
-CloudAccess.net troubleshooting  
-Practical Troubleshooting: Spent a good chunk of time figuring out why my {convertforms 1} shortcode was just showing up as text on the page instead of an actual form.  
+- Joomla Extension Docs: Spent time reading up on how Joomla handles the difference between "Components" and "Plugins".  
+- CloudAccess.net troubleshooting  
+- Practical Troubleshooting: Spent a good chunk of time figuring out why my {convertforms 1} shortcode was just showing up as text on the page instead of an actual form.  
 
 https://youtu.be/h2SqBTIwKqg?si=lJ2hifwJAr5S9tHK  
 https://app.slack.com/client/T0C3E7EP2/C0K0UUFN2  
