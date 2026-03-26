@@ -1,14 +1,14 @@
 # Week 5
 
 ## Learning Activities & Resources
-WordPress Theme Guide: Read the Child Themes Header Requirements to learn how to link a new folder to the main theme.  
-Inspector Tool: Used the Chrome DevTools to click on buttons and headings to see their exact CSS names.
+- WordPress Theme Guide: Read the Child Themes Header Requirements to learn how to link a new folder to the main theme.  
+- Inspector Tool: Used the Chrome DevTools to click on buttons and headings to see their exact CSS names.
 
 https://developer.wordpress.org/themes/advanced-topics/child-themes/  
 https://developer.chrome.com/docs/devtools/css/  
 
 ## Estimated hours
-4 Hours
+2 Hours
 
 ## Content Insights
 I learned that a Child Theme is like a safety net for a website. Instead of changing the main theme files, I made a separate folder that holds all my custom changes.
