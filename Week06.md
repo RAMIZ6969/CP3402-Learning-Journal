@@ -2,17 +2,16 @@
 
 ## Learning Activities & Resources  
 
-Agile Planning Tools: Explored Trello for Teams to learn how to move tasks through a "To Do, Doing, Done" workflow.  
-Version Control Collaboration: Studied GitHub Classroom Basics to understand how to join a group repository and manage shared code.  
-Professional Networking: Used LinkedIn’s Networking Guide to connect and document team skills for the project effectively.  
+- Agile Planning Tools: Explored Trello for Teams to learn how to move tasks through a "To Do, Doing, Done" workflow.  
+- Version Control Collaboration: Studied GitHub Classroom Basics to understand how to join a group repository and manage shared code.  
+- Professional Networking: Used LinkedIn’s Networking Guide to connect and document team skills for the project effectively.  
 
 https://trello.com/guide/remote-work/communication-collaboration  
 https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom   
 https://www.linkedin.com/showcase/linkedin-member-guide/  
 
 ## Estimated Hours
-
-2 hours
+2.5 hours
 
 ## Content Insights
 
