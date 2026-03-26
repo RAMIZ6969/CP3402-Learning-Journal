@@ -1,5 +1,5 @@
 # Week 1
-Learning Activities & Resources
+## Learning Activities & Resources
 
 CP3402 Week 1 Lecture Videos on LearnJCU  
 YouTube Tutorial: Git and GitHub for Beginners – Learned about local vs. remote repositories and the git push workflow.  
