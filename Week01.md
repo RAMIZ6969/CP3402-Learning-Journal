@@ -1,9 +1,9 @@
 # Week 1
 ## Learning Activities & Resources
 
-CP3402 Week 1 Lecture Videos on LearnJCU  
-YouTube Tutorial: Git and GitHub for Beginners – Learned about local vs. remote repositories and the git push workflow.  
-Brainstorming & Technical Troubleshooting: Used Google Gemini to define the UniTasker business model and troubleshoot PowerShell command-line errors regarding file paths and Git identity.  
+- CP3402 Week 1 Lecture Videos on LearnJCU  
+- YouTube Tutorial: Git and GitHub for Beginners – Learned about local vs. remote repositories and the git push workflow.  
+- Brainstorming & Technical Troubleshooting: Used Google Gemini to define the UniTasker business model and troubleshoot PowerShell command-line errors regarding file paths and Git identity.  
 
 https://gemini.google.com  
 https://youtu.be/a9u2yZvsqHA?si=HpNMlns_0PVwbjFW
