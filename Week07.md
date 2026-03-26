@@ -2,16 +2,15 @@
 
 ## Learning Activities & Resources  
 
-PHP Basics: Read the PHP Introduction to understand how the server processes code before sending it to the browser.  
-Conditional Logic: Studied PHP If/Else Statements to learn how to change page content based on user data.  
-Code Organization: Researched the PHP include function to find out how to share the same header across multiple files.
+- PHP Basics: Read the PHP Introduction to understand how the server processes code before sending it to the browser.  
+- Conditional Logic: Studied PHP If/Else Statements to learn how to change page content based on user data.  
+- Code Organization: Researched the PHP include function to find out how to share the same header across multiple files.
 
 https://www.php.net/manual/en/control-structures.intro.php  
 https://www.w3schools.com/php/php_if_else.asp  
 https://www.php.net/manual/en/function.include.php  
 
 ## Estimated hours
-
 2 hours
 
 ## Content Insights
