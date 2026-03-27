@@ -9,7 +9,7 @@ https://gemini.google.com
 https://youtu.be/a9u2yZvsqHA?si=HpNMlns_0PVwbjFW
 
 ## Estimated Hours
-1 hour
+1.5 hours
 
 ## Content Insights
 Through my research into Git configuration, I learned that Git requires a global user identity (email and name) before it allows any commits to be recorded. This ensures every save point has an author for accountability, which is vital for project management. I also discovered that when using PowerShell, folder paths containing spaces must be wrapped in quotation marks (e.g., cd "Week 1") because the terminal interprets spaces as the start of a new command parameter.
